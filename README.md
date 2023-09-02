@@ -12,7 +12,7 @@ Up Arrow - Speeds up the game.\
 Down Arrow - Slows down the game.\
 Space Bar - Pauses the game.\
 Escape - Quits the game.\
-R - Resets and randomises the board.\
+R - Resets and randomizes the board.\
 C - Clears the board.\
 Mouse Click - Toggles a cell on/off.\
 F - Prints the FPS to the console.
