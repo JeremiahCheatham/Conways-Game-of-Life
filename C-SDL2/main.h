@@ -7,6 +7,7 @@
 #include <time.h>
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_ttf.h>
+#include <SDL2/SDL_image.h>
 
 #define SDL_FLAGS (SDL_INIT_VIDEO|SDL_INIT_AUDIO|SDL_INIT_TIMER)
 #define WINDOW_TITLE "Conway's Game of Life"
