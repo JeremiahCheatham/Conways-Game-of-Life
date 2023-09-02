@@ -8,12 +8,12 @@ Conway's Game of Life is a classic cellular automaton devised by British mathema
 * In all other cases, a cell dies or remains dead.
 
 # Build
-To build the game-of-life binary you will need all required build tools needed to compile via Makefile and gcc. You will also need SDL2 and ttf both the libraries and headerfiles. This was created in linux where the SDL2 headerfiles are in the SDL2 folder.
+To build the game-of-life binary you will need all required build tools needed to compile via Makefile and gcc. You will also need SDL2 SDL2_image and SDL2_ttf both the libraries and headerfiles. This was created in linux where the SDL2 headerfiles are in the SDL2 folder.
 
 ## ArchLinux instructions.
 
     sudo pacman -S --needed base-devel
-    sudo pacman -S --needed sdl2 sdl2_ttf
+    sudo pacman -S --needed sdl2 sdl2_image sdl2_ttf
     make release run
 
 # Controls
