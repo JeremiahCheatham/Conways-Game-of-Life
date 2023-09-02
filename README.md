@@ -18,5 +18,5 @@ Mouse Click - Toggles a cell on/off.\
 F - Prints the FPS to the console.
 
 # Ports
-[C - SDL2](C-SDL2)
+[C - SDL2](C-SDL2)\
 [Ruby - Gosu](Ruby-Gosu)
